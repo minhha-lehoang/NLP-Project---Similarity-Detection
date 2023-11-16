@@ -16,14 +16,14 @@ from three BERT-based models to take advantages of their complementary strengths
 The report can be found in the [Group_14-Sentences_Semantic_Similarity_Detection_with_Ensemble_Methods_integrating_BERT-based_models.pdf](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/blob/afec318b34a8f756f0e6eaf834f942c4ec7f4a23/Group_14-Sentences_Semantic_Similarity_Detection_with_Ensemble_Methods_integrating_BERT-based_models.pdf) file contained in this repository.
 
 ## Repository structure
-### The `data` folder
+### The [data](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/tree/main/data) folder
 Contain the original dataset in `.tsv` format and the preprocessed dataset in `.csv` format.
 
-### The `train` folder
+### The [train](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/tree/main/train) folder
 Contain the Jupiter notebook files for training the models and the training results output files.
 
-### The `ensemble` folder
+### The [ensemble](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/tree/main/ensemble) folder
 Contain the code for the ensemble method.
 
-### The `figures` folder
+### The [figures](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/tree/main/figures) folder
 Contain the figures used in the report.
