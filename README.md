@@ -20,7 +20,7 @@ The report can be found in the [Group_14-Sentences_Semantic_Similarity_Detection
 Contain the original dataset in `.tsv` format and the preprocessed dataset in `.csv` format.
 
 ### The [train](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/tree/main/train) folder
-Contain the Jupiter notebook files for training the models and the training results output files.
+Contain the Jupyter notebook files for training the models and the training results output files.
 
 ### The [ensemble](https://github.com/minhha-lehoang/NLP-Project-Similarity-Detection/tree/main/ensemble) folder
 Contain the code for the ensemble method.
