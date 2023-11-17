@@ -6,7 +6,7 @@ This repository contains the code, models, and output files for the mini project
 ## Group members
 | Name               | Student ID | Email               |
 |--------------------|------------|---------------------|
-| Le Hoang Minh Ha   | 21020621   | 21020621@vnu.edu.vn |
+| Le Hoang Minh Ha   | 21020621   | minhha.lehoang@gmail.com |
 | Nguyen Dieu Nhat   | 21020656   | dieunhat@gmail.com |
 
 ## Project description
