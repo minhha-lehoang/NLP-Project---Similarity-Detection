@@ -29,7 +29,7 @@ Contain the code for the ensemble method.
 Contain the figures used in the report.
 
 ____
-**NOTE**: this branch contains the training results file *without* model checkpoints. The training results files including model checkpoints can be found in this dataset: [training_results](https://kaggle.com/datasets/0e3f8b3006205cf12dd920ee589e8f3cd26652cb94cd052d848531de6870f030).
+**NOTE**: this branch contains the training results file *without* model checkpoints. The training results files including model checkpoints can be found in this dataset: https://www.kaggle.com/datasets/lehoangminhha/training-results.
 
 To clone this repository on local device, use:
 ```
