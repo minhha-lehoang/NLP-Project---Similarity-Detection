@@ -1,1 +1,1 @@
-This directory contains training results of the models.
+This directory contains training results of the models **without** the model checkpoints, and can be cloned safely without have to download more than 4GB of model checkpoints files. Please refer to the `main` branch or this [dataset](https://kaggle.com/datasets/0e3f8b3006205cf12dd920ee589e8f3cd26652cb94cd052d848531de6870f030) to access the `training_results` with model checkpoints.
